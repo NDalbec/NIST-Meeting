@@ -214,10 +214,10 @@ footer: P. C. Humphreys et al., “Tomography of photon-number resolving continu
 ## Confidence
 
 $$
-C_n = \int \frac{p(s|n)^2p(n)}{\sum_k p(s|k)p(k)} ds 
+C_n = \int \frac{p(s|n)^2P(n)}{\sum_k p(s|k)P(k)} ds 
 $$
 
-<center> $p(s\|n)$ : Gaussians      | <center> $p(n)$ : Expected Distribution 
+<center> $p(s\|n)$ : Gaussians      | <center> $P(n)$ : Expected Distribution 
 -----------------------------------:|:---------------------------------------
 ![fit](assets/PCA.svg)              | ![fit](assets/Distribution_Uniform.svg)
 
